@@ -1,0 +1,16 @@
+C:\Users\ferad\source\repos\Student_crud\Student_crud\obj\Debug\netcoreapp3.1\Student_crud.csproj.AssemblyReference.cache
+C:\Users\ferad\source\repos\Student_crud\Student_crud\obj\Debug\netcoreapp3.1\Student_crud.csproj.GenerateResource.cache
+C:\Users\ferad\source\repos\Student_crud\Student_crud\obj\Debug\netcoreapp3.1\Student_crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferad\source\repos\Student_crud\Student_crud\obj\Debug\netcoreapp3.1\Student_crud.AssemblyInfoInputs.cache
+C:\Users\ferad\source\repos\Student_crud\Student_crud\obj\Debug\netcoreapp3.1\Student_crud.AssemblyInfo.cs
+C:\Users\ferad\source\repos\Student_crud\Student_crud\obj\Debug\netcoreapp3.1\Student_crud.csproj.CoreCompileInputs.cache
+C:\Users\ferad\source\repos\Student_crud\Student_crud\bin\Debug\netcoreapp3.1\Student_crud.exe
+C:\Users\ferad\source\repos\Student_crud\Student_crud\bin\Debug\netcoreapp3.1\Student_crud.deps.json
+C:\Users\ferad\source\repos\Student_crud\Student_crud\bin\Debug\netcoreapp3.1\Student_crud.runtimeconfig.json
+C:\Users\ferad\source\repos\Student_crud\Student_crud\bin\Debug\netcoreapp3.1\Student_crud.runtimeconfig.dev.json
+C:\Users\ferad\source\repos\Student_crud\Student_crud\bin\Debug\netcoreapp3.1\Student_crud.dll
+C:\Users\ferad\source\repos\Student_crud\Student_crud\bin\Debug\netcoreapp3.1\Student_crud.pdb
+C:\Users\ferad\source\repos\Student_crud\Student_crud\obj\Debug\netcoreapp3.1\Student_crud.Gui.Student_Formcs.resources
+C:\Users\ferad\source\repos\Student_crud\Student_crud\obj\Debug\netcoreapp3.1\Student_crud.dll
+C:\Users\ferad\source\repos\Student_crud\Student_crud\obj\Debug\netcoreapp3.1\Student_crud.pdb
+C:\Users\ferad\source\repos\Student_crud\Student_crud\obj\Debug\netcoreapp3.1\Student_crud.genruntimeconfig.cache
